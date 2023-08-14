@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I'm Yujia!
 
+- 💻 A Full Stack Developer with a background in engineering!
+- 📚 Studying Web development in Humber College.
+- 🧳 Prepared and ready to take on new challenges in the web developing industry.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LINKEDIN-0183BF?style=flat-square&labelColor=0183BF&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/adam-thomas-6b563012)](https://www.linkedin.com/in/yujia-helen-wang-a1bb26144/)
 <!--
